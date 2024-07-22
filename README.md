@@ -1,2 +1,3 @@
 # F.demo-
-THIS IS MY FIRST GIT REPOSITORY
+THIS IS MY FIRST GIT REPOSITORY.
+Author - Taksha Sanawane
